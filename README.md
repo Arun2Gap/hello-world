@@ -13,7 +13,7 @@ Day-1(29-Aug-2017):
 Day-2(30-Aug-2017):
 
 =>yesterday I don't know to save the "Hello-World/README.md.
-=>today I find that after edit complete switch to "preview changes" which is on top right corner of edit window(beside EDIT_FILE).
+=>today I find that after edit complete switch to "preview changes" which is on top left corner of edit window(beside EDIT_FILE).
 =>In that scroll down to click on "Commit new changes".
 =>After that it redirect to Hello-World(My current repository).
 
