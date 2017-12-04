@@ -31,6 +31,8 @@ After edit the file switch on "preview changes" and again click on "commit new c
 => scroll down there will another edit window "commit changes" in that type description and click on save to new branch then you can type the new branch name and then click on "propose file change".
 =>If I wish to commit on default branch(master) after description click on commit directly to default click on "commit changes".
 =>After click on save changes it redirect to "open a pull request" in that it compare the default branch(master) file(README) with new branch(Arun@gap-newbranch-1) file README and shows changes like add line in "green" and delete in "red".
+Day-3(04-Dec-2017) 
+Without changes in file it is not commiting
 
 --To create a pull request(to merge the updated code to the existing code in the same branch) in own repository(toViewNextPageWithREADME)
 
